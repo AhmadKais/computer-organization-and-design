@@ -1,5 +1,4 @@
 .ORIG X3000
-;318212248,209243203
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ASTERISK .fill #42
@@ -181,7 +180,7 @@ HALT
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ARRAY .blkw #6 #-1
 ENTERNUM .stringz "Enter an integer number:"
-ERROR11 .stringz "Error! You didn’t enter a number. Please enter again:"
+ERROR11 .stringz "Error! You didnâ€™t enter a number. Please enter again:"
 HYPHEN .fill #-45
 ERROR22 .stringz "Error! Number overflowed! Please enter again:"
 COUNTERINPUT .fill #0
