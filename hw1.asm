@@ -1,5 +1,5 @@
-;Ahmad kais 318212248
-;Rojeh shalabi 209243203
+;Ahmad kais 
+;Rojeh shalabi 
 ;Test program for integer multiplication
 .ORIG x3000
 LD R0, Test_Mul1 ; R0 = Test_Mul1
